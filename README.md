@@ -7,6 +7,7 @@ Using this workflow, you can obtain whole proteome structural information from A
 
 # Instructions to run:
 Data : All input data is publicly available on DepMap, TCGA, CTRP, Alphafold, and MSigDB.
+
 Environment: Set up conda environment using the provided YAML file
 
 # Known issues:
