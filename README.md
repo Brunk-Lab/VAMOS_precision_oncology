@@ -12,5 +12,5 @@ Environment: Set up conda environment using the provided YAML file
 # Known issues:
 This workflow uses the kneed package for automatic finding of the epsilon parameter during density based clustering. If your input data does not have a clear "elbow" or "knee," this automatic process will fail and a manual epsilon parameter will need to be assigned for that protein. 
 
-#Citations:
+# Citations:
 Please cite the following paper: 
